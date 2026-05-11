@@ -39,9 +39,6 @@ The dataset (`tips.csv`) contains the following features:
 ## 👥 Project Team
 Developed by Computer Engineering students at Esenyurt University:
 - **Ömer** (Me)
-- Ahmet Yusuf İnci
-- Uğur Dinç
-- Zeynep Sena Taşolar 
 - Abdu Khalek Aktaa
 
 ---
